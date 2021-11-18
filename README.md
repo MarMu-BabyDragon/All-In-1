@@ -1,18 +1,27 @@
 # All-In-1
-Easy Installer
+***Easy Installer***
 
 **Creation By _MarMu_** :shipit:
 
-@  apt update 
-@  apt upgrade -y
-@  pkg install python python2
-@  pkg install git -y
+👉  apt update
+
+ 
+👉  apt upgrade -y
+
+
+👉  pkg install python python2
+
+
+👉  pkg install git -y
+
 
 👉 git clone https://github.com/MarMu-Myanmar/All-in-1
 
-😎 cd All-in-1
 
-😎 bash tmux_setup
+👉 cd All-In-1
+
+👉 bash tmux_setup
+
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
