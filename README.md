@@ -15,6 +15,9 @@
 👉  pkg install git -y
 
 
+👉 rm -rf All-in-one
+
+
 👉 git clone https://github.com/MarMu-Myanmar/All-in-1
 
 
