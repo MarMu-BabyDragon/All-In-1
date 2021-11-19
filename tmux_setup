@@ -45,7 +45,7 @@ echo
 echo -e $PP"ENTER TOOL PASSWORD"
 
 read pass
-if [ $pass -eq 8030 ]
+if [ $pass -eq 8484 ]
 then
 echo
 echo -e """\e[1;36m
@@ -91,7 +91,7 @@ fi
 echo 
 pkg update && pkg upgrade -y
 
-if [ $pass -eq 8030 ]
+if [ $pass -eq 8484 ]
 then
 echo
 cd $HOME
