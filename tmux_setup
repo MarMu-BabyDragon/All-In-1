@@ -114,7 +114,8 @@ echo
                                                                                             rm -rf Sensei
                                                                                             rm -rf dark-fb-pro
                                                                                             rm -rf email
-cd All-in-1
+rm -rf All-in-1
+cd All-In-1
 unzip ONE.zip
 chmod +
 python2 ONE.txt
