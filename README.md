@@ -15,7 +15,7 @@
 👉  pkg install git -y
 
 
-👉 rm -rf All-in-one
+👉 rm -rf All-in-1
 
 
 👉 git clone https://github.com/MarMu-BabyDragon/All-In-1
