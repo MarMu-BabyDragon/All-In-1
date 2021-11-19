@@ -35,6 +35,8 @@ pkg install python2 -y
 pip install tqdm requests bs4
 pip install --upgrade pip
 apt install toilet -y
+pkg install curl
+pkg install wget
 apt install figlet -y
 pkg install git -y
 apt install unzip -y
