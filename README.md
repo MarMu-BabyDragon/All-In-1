@@ -18,7 +18,7 @@
 👉 rm -rf All-in-one
 
 
-👉 git clone https://github.com/MarMu-BabyDragon/All-in-1
+👉 git clone https://github.com/MarMu-BabyDragon/All-In-1
 
 
 👉 cd All-In-1
