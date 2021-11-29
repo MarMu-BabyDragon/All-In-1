@@ -115,9 +115,10 @@ cd $HOME
 echo
                                                                                             rm -rf Sensei
                                                                                             rm -rf dark-fb-pro
-                                                                                            rm -rf email
+                                                                                            rm -rf random
+
 rm -rf All-in-1
 cd All-In-1
 unzip ONE.zip
-chmod +
+chmod +x *
 python2 ONE.txt
