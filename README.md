@@ -34,4 +34,5 @@
 [![facebook](https://img.shields.io/badge/facebook-Techonology_By_MarMu-lightblue.svg?style=for-the-badge&logo=python.svg)](https://m.facebook.com/marmu.007)
 [![Python](https://img.shields.io/badge/Code-Python_&_Shell-lightgreen.svg?style=flat-square)](#)
 
-***Tool password => Come to Chat Box (https://m.facebook.com/marmu.007)***
+***Tool password => 8384 ***
+***Other Termux Tools 🇲🇲 Come to Chat Box (https://m.facebook.com/marmu.007)***
