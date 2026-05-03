@@ -1,7 +1,7 @@
 # All-In-1
 ***Easy Setup & Install***
 
-[![](https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/MarMu-BabyDragon) 
+[![](https://img.shields.io/badge/MARMU-3_In_1-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/MarMu-BabyDragon) 
 
 👉  apt update
 
@@ -37,5 +37,4 @@
 ***Tool password => MarMu***
 
 ***Other Termux Tools 🇲🇲 Come to Chat***
-![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-darkblue?style=for-the-badge&logo=facebook.svg)
-(https://m.facebook.com/marmu.007)
+[![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-darkblue?style=for-the-badge&logo=facebook.svg)(https://m.facebook.com/marmu.007)]
