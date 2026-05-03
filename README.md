@@ -1,7 +1,7 @@
 # All-In-1
 ***Easy Setup & Install***
 
-https://img.shields.io/badge/MARMU-BABY_DRAG0N-red?style=for-the-badge&logoColor=red&labelColor=black
+[![](https://img.shields.io/badge/MARMU-BABY_DRAG0N-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/MarMu-BabyDragon) 
 
 👉  apt update
 
