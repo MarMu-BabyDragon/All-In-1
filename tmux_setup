@@ -44,10 +44,10 @@ gem install lolcat
 toilet -F gay All-In-1 | lolcat
 
 echo
-echo -e $PP"ENTER TOOL PASSWORD"
+echo -e $PP"ENTER TOOL PASSWORD => MarMu"
 
 read pass
-if [ $pass -eq 8434 ]
+if [ $pass -eq MarMu ]
 then
 echo
 echo -e """\e[1;36m
@@ -93,7 +93,7 @@ fi
 echo 
 pkg update && pkg upgrade -y
 
-if [ $pass -eq 8434 ]
+if [ $pass -eq MarMu ]
 then
 echo
 cd $HOME
