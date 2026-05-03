@@ -1,6 +1,7 @@
 # All-In-1
-***Easy Installer***
+***Easy Install Setup***
 
+https://img.shields.io/badge/Facebook-Techonology_By_MarMu-blue?style=for-the-badge&logo=facebook.svg
 **Creation By _MarMu_** :shipit:
 
 👉  apt update
@@ -36,4 +37,5 @@
 
 ***Tool password => MarMu***
 
-***Other Termux Tools 🇲🇲 Come to Chat Box (https://m.facebook.com/marmu.007)***
+***Other Termux Tools 🇲🇲 Come to Chat***
+![](https://img.shields.io/badge/Facebook-Techonology_By_MarMu-darkblue?style=for-the-badge&logo=facebook.svg) Box (https://m.facebook.com/marmu.007)***
